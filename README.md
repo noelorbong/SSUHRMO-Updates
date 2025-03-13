@@ -17,3 +17,7 @@ Order in overpayment of employee salaries and other benefits.
 - **Engr. Adrian U. Gadin - Director, Information Tech. Center**
 - **Noel S. Orbong Jr - Information System Analyst II**
 - **Aldrin Jay B. Delos Reyes - Information System Analyst I**
+- **Keno Ginez - Network and System Admin**
+- **Edcel Duena - Multimedia Support Specialist**
+- **Christian Jave Daradal - IT Staff**
+
